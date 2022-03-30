@@ -1,2 +1,1 @@
-# My portfolio Web-Design
-##Korotchenko Maria
+# My Web-Design portfolio
